@@ -61,7 +61,7 @@ ul li.checked{
   color: #1c1a1a;
 }
 ul li.checked::before{
-  background-image: url(check.png);
+  background-image: url();
 }
 ul li span{
   position: absolute;
